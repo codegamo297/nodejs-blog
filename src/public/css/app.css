@@ -1,0 +1,23 @@
+.car-course-item {
+  margin-top: 16px;
+}
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px;
+}
+
+.user-logo {
+  width: 56px;
+  height: 56px;
+  margin-right: 4px;
+}
+
+.checkbox-select-all-options {
+  width: 180px;
+  text-align: center;
+  margin: 0 12px;
+}
+/*# sourceMappingURL=app.css.map */
